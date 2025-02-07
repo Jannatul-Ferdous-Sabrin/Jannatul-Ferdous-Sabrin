@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous Sabrin</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A dedicated coder</h3>
 
 - 🔭 I have completed my studies in **Computer Science & Engineering**
 

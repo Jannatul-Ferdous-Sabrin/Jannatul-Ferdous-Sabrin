@@ -6,7 +6,6 @@
 - 📫 How to reach me **jannatulsabrin251@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jannatul-ferdous-sabrin-162346299/]
-- (https://www.linkedin.com/in/jannatul-ferdous-sabrin-162346299/)
 
 
 <h3 align="left">Connect with me:</h3>

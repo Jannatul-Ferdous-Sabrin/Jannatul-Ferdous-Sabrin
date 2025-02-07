@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jannatul Ferdous Sabrin</h1>
+<h3 align="center">A passionate programmer</h3>
 
-<!--
-**Jannatul-Ferdous-Sabrin/Jannatul-Ferdous-Sabrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I have completed my studies in **Computer Science & Engineering**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **jannatulsabrin251@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://www.linkedin.com/in/jannatul-ferdous-sabrin-162346299/]
+- (https://www.linkedin.com/in/jannatul-ferdous-sabrin-162346299/)
+
+
+<h3 align="left">Connect with me:</h3>
+
